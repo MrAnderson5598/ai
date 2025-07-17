@@ -1,4 +1,3 @@
-
 document.getElementById('uploadForm').onsubmit = async function(e) {
   e.preventDefault();
 
